@@ -4,7 +4,7 @@ function setup() {
 
 function draw() {
   background("black");
-  text("FORMADORES", 138, 184);
+  text("FORMADORES TURMA 2", 138, 184);
   fill(color(199, 94, 235))
 }
 
